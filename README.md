@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Repository13
-- 👀 I’m interested in sucking
-- 🌱 I’m currently learning sucking
-- 💞️ I’m looking to collaborate on sucking
-- 📫 How to reach me, look at my fucking sucking email
+- 👋 Hi, I’m @Repository13 (Traffic64)
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on nothing
+- 📫 I'm able to contact you through discord. Traffic64#5682
 
 <!---
 suck
